@@ -157,9 +157,10 @@ MIT
 
 ## 👤 Author
 
-**Jesse Flippin**
+**Jesse Flippen** - Antigravity IDE Agents used for majority of coding with Claude as a guide to deploy
 
 Built to solve a real operational problem from 10+ years in enterprise sales. This project demonstrates the intersection of business domain expertise and technical implementation.
 
 - [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 - [GitHub](https://github.com/JesseFlip)
+
